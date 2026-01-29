@@ -3,6 +3,7 @@
 **`Desenvolvedora FullStack`**
 
 Me chamo Adriany Soares Paiva, tenho 20 anos e sou natural de São Paulo. Atualmente, curso Ciência da Computação na UFFS e venho construindo minha formação com foco em lógica, programação e resolução de problemas.
+
 Participo de maratonas de programação em equipe, integrando o time while girls == 3;, experiência que tem fortalecido minhas habilidades técnicas, o trabalho em grupo e o raciocínio sob pressão. Estou sempre em busca de aprendizado contínuo e de novos desafios na área de tecnologia.
 
 ---
