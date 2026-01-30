@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Adriany Soares Paiva
+# 👩🏽‍💻 Adriany Soares Paiva
 
 **`Desenvolvedora FullStack`**
 
