@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Adriany Soares Paiva
 
-**`Desenvolvedora Back-end`**
+**`Desenvolvedora Back-End`**
 
 Me chamo Adriany Soares Paiva, tenho 20 anos e sou natural de São Paulo. Atualmente, curso Ciência da Computação na UFFS e venho construindo minha formação com foco em lógica, programação e resolução de problemas.
 
